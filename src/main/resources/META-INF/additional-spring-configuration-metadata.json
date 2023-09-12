@@ -1,0 +1,52 @@
+{"properties": [
+  {
+    "name": "planapi.messages.planSaveSucc",
+    "type": "java.lang.String",
+    "description": "A description for 'planapi.messages.planSaveSucc'"
+  },
+  {
+    "name": "planapi.messages.planDeleteFail",
+    "type": "java.lang.String",
+    "description": "A description for 'planapi.messages.planDeleteFail'"
+  },
+  {
+    "name": "planapi.messages.planDeleteSucc",
+    "type": "java.lang.String",
+    "description": "A description for 'planapi.messages.planDeleteSucc'"
+  },
+  {
+    "name": "planapi.messages.planSattusChane",
+    "type": "java.lang.String",
+    "description": "A description for 'planapi.messages.planSattusChane'"
+  },
+  {
+    "name": "planapi.messages.planSaveFail",
+    "type": "java.lang.String",
+    "description": "A description for 'planapi.messages.planSaveFail'"
+  },
+  {
+    "name": "planapi.messages.planStatusChangeFail",
+    "type": "java.lang.String",
+    "description": "A description for 'planapi.messages.planStatusChangeFail'"
+  },
+  {
+    "name": "planapi.messages.planUpdateFail",
+    "type": "java.lang.String",
+    "description": "A description for 'planapi.messages.planUpdateFail'"
+  },
+  {
+    "name": "planapi.messages.planUpdateSucc",
+    "type": "java.lang.String",
+    "description": "A description for 'planapi.messages.planUpdateSucc'"
+  },
+  {
+    "name": "planapi.messages.planSatusChane",
+    "type": "java.lang.String",
+    "description": "A description for 'planapi.messages.planSatusChane'"
+  },
+  {
+    "name": "planapi.messages.planSatusChange",
+    "type": "java.lang.String",
+    "description": "A description for 'planapi.messages.planSatusChange'"
+  }
+]}

@@ -1,0 +1,25 @@
+server:
+  port: 8080
+spring:
+  h2:
+    console:
+      enabled: true
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: true
+  mvc:
+    pathmatch:
+      matching-strategy: ant-path-matcher
+      
+      
+planapi:
+  messages:
+    planDeleteFail: Plan Delete Failed
+    planDeleteSucc: Plan Deleted Successfully
+    planSatusChange: Plan Status Changed
+    planSaveFail: Plan Save Fail
+    planSaveSucc: Plan Saved Successfullys
+    planStatusChangeFail: Plan Status Change Fail
+    planUpdateFail: Plan Update failed
+    planUpdateSucc: Plan Updated Succesfully
